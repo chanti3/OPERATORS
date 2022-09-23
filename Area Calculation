@@ -7,3 +7,5 @@ ac=3.14*r*r
 print(s*s) #area of square
 print(l*b) #area of rectangle
 print("%.2f" %ac)
+print("Required length is",c,"m")
+print("Required quantity of carpet is",d,"sqm")
