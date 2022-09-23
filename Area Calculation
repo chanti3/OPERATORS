@@ -1,0 +1,9 @@
+#python
+s=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+ac=3.14*r*r
+print(s*s) #area of square
+print(l*b) #area of rectangle
+print("%.2f" %ac)
