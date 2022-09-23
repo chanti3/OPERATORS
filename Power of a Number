@@ -1,0 +1,5 @@
+#python
+a=int(input())
+b=int(input())
+power=pow(a,b)
+print(power)
